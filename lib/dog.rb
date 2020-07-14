@@ -7,7 +7,6 @@ class Dog       #add a class definition for a dog class
         puts "The Dog is sitting"
     end
 end
-Dog.new.bark
-Dog.new.sit
+
 
 
